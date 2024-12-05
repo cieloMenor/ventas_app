@@ -1,0 +1,7 @@
+[
+	{ "s": "REGISTRO", "p": [3] },
+	{ "s": "REGRESAR", "p": [6, 5] },
+	{ "s": "REPORTE", "p": [5, 6, 4] },
+	{ "s": "REPORTES", "p": [4] },
+	{ "s": "RETROCEDER", "p": [6, 5] }
+]

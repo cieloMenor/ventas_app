@@ -1,0 +1,8 @@
+[
+	{ "s": "IMAGEN", "p": [7] },
+	{ "s": "INGRESAR", "p": [3] },
+	{ "s": "INICIO", "p": [3, 7] },
+	{ "s": "INSTRUCCIONES", "p": [1] },
+	{ "s": "INTERACTUA", "p": [2] },
+	{ "s": "INTERFACES", "p": [2] }
+]

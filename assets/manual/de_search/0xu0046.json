@@ -1,0 +1,9 @@
+[
+	{ "s": "FECHA", "p": [7] },
+	{ "s": "FECHAS", "p": [7, 6] },
+	{ "s": "FILTRADO", "p": [7, 6] },
+	{ "s": "FILTRAR", "p": [7, 6] },
+	{ "s": "FIN", "p": [7] },
+	{ "s": "FLECHA", "p": [5] },
+	{ "s": "FORMULARIO", "p": [3] }
+]

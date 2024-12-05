@@ -1,0 +1,9 @@
+{
+	"1": ["Página p... ¡Se requiere una licencia Advanced!", "index.htm", []],
+	"2": ["1. Manual de aplicac... ¡Se requiere una licencia Advanced!", "manual_de_aplicacion_movil_de_tip_top.htm", []],
+	"3": ["1.1. Inici... ¡Se requiere una licencia Advanced!", "inicio_de_sesion.htm", [1]],
+	"4": ["1.2. Menú ... ¡Se requiere una licencia Advanced!", "menu_de_reportes.htm", [1]],
+	"5": ["1.3. Reporte de s... ¡Se requiere una licencia Advanced!", "reporte_de_stock_de_productos.htm", [1]],
+	"6": ["1.4. Reporte de... ¡Se requiere una licencia Advanced!", "reporte_de_venta_detallada.htm", [1]],
+	"7": ["1.4.1. Filtr... ¡Se requiere una licencia Advanced!", "filtrar_por_fechas.htm", [1,5]]
+}
